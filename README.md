@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/@test?name=test&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=266">
+<img align="right" src="[https://count.getloli.com/@test?name=test&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=266](https://count.getloli.com/@test?name=test&theme=miku&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto)">
 
 <div style="clear: right;">
   
