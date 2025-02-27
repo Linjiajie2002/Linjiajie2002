@@ -43,6 +43,7 @@
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linjiajie2002\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 
 <div style="clear: right;">
