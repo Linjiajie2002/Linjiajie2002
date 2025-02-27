@@ -1,4 +1,8 @@
-<h2><a href="https://github.com/journey-ad"><img src="https://raw.githubusercontent.com/journey-ad/journey-ad/master/sayhi.svg" align="left" /></a>🌱</h2>
+<h2>
+  <a href="https://github.com/journey-ad">
+    <img src="https://github.com/Linjiajie2002/Linjiajie2002/blob/main/Name.gif" align="top" width="200" height="50"/>
+  </a>🌱
+</h2>
 
 
 <img align="right" src="https://count.getloli.com/@Linjiajie2002?name=Linjiajie2002&theme=miku&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto">
