@@ -22,6 +22,16 @@
 [![](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=ffffff)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/Editor-Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=ffffff)](https://www.sublimetext.com/)
 [![](https://img.shields.io/badge/Project%20Management-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=ffffff)](https://trello.com/)
+[![](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff)](https://www.adobe.com/products/photoshop.html)
+[![](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=ffffff)](https://www.adobe.com/products/premiere.html)
+[![](https://img.shields.io/badge/-Substance%203D-9E1B32?style=for-the-badge&logo=adobe&logoColor=ffffff)](https://www.adobe.com/products/substance3d.html)
+[![](https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity&logoColor=ffffff)](https://unity.com/)
+[![](https://img.shields.io/badge/-Maya-2B3A42?style=for-the-badge&logo=autodesk&logoColor=ffffff)](https://www.autodesk.com/products/maya/overview)
+[![](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=ffffff)](https://www.blender.org/)
+[![](https://img.shields.io/badge/-ZBrush-8D0A20?style=for-the-badge&logo=zbrush&logoColor=ffffff)](https://pixologic.com/)
+[![](https://img.shields.io/badge/-Toon%20Boom%20Harmony-5A9A6E?style=for-the-badge&logo=toonboom&logoColor=ffffff)](https://www.toonboom.com/products/harmony)
+[![](https://img.shields.io/badge/-MikuMikuDance-00B8F4?style=for-the-badge&logo=mmd&logoColor=ffffff)](https://www.geocities.jp/higuchi_e/softwares/mmd/index.html)
+
 
 
 
